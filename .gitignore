@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore CSV files in the data directory
+Data/UltraMarathon-pandas_project/data/*.csv
+
 # C extensions
 *.so
 
