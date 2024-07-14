@@ -1,4 +1,4 @@
-# Ultra Marathon Race Data Analysis
+# Ultra Marathon Race Exploratory Data Analysis (EDA)
 
 This project analyzes a dataset of ultra marathon races, focusing on events in the USA for the year 2020 with distances of 50km or 50mi. The dataset is sourced from Kaggle's [The Big Dataset of Ultra Marathon Running](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data).
 
