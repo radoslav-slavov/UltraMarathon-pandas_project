@@ -12,7 +12,7 @@ This project analyzes a dataset of ultra marathon races, focusing on events in t
    - Standardized event names by removing location suffixes. (USA)
    - Converted athlete birth years to integer type and calculated athlete ages. 
    - Removed unnecessary columns and handled missing values. (Athlete Club, Athlete Country, Athlete year of birth, Athlete age category)
-   - Ensured data types were appropriate for analysis.
+   - Ensured data types were appropriate for analysis. (athlete_age from float to int, athlete_average speed decimal precision)
 
 3. **Data Refinement:**
    - Removed records with athletes where age was mistaken with the year in which the race took part. (most cases were 2020)
